@@ -1,6 +1,12 @@
 # AlexSofttek
 
 
+DENTRO DE CADA PROYECTO ESTA EL ARCHIVO 
+'dataframe.ipynb' 
+CON EL RESULTADO.
+
+
+
 
 
 SQL INSERT FOR TEST API
