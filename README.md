@@ -1,12 +1,14 @@
 # AlexSofttek
 
-
+## -
 DENTRO DE CADA PROYECTO ESTA EL ARCHIVO 
 'dataframe.ipynb' 
 CON EL RESULTADO.
+## -
 
-
-
+## -
+README PRINCIPAL 
+## - https://github.com/ALETKS/AlexSofttek/tree/main
 
 
 SQL INSERT FOR TEST API
